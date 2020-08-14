@@ -1,1 +1,1 @@
-# projectg
+# PROJECTG README #
